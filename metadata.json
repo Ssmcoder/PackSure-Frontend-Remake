@@ -1,0 +1,7 @@
+{
+  "name": "PackSure - National Consignment Verification",
+  "description": "Apex regulatory platform for real-time verification of industrial packaging integrity, BIS consignment compliance, and anti-counterfeiting oversight across Indian commerce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
